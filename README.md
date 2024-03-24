@@ -1,4 +1,11 @@
-#When Creating a react project must do this steps:
+<div align="center">
+  
+# <b>This is just my notes when creating projects in ReactJs</b><br>
+## <i>When Creating a React project must do these steps:</i><br>
+### <b><i>❗ MUST HAVE NODE JS INSTALLED FIRST ❗</i></b> <pre>$ node -v </pre>
+
+</div>
+
 
 - [Any Versions would do] vite@X.X.X Type in cmd: <br>
 <pre> $ npm create vite@4.1.0 </pre>
