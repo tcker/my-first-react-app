@@ -1,6 +1,6 @@
 #When Creating a react project must do this steps:
 
-- Type in cmd: 
+- [Any Versions would do] vite@X.X.X Type in cmd:
 $ npm create vite@4.1.0 
 - proceed with yes (y) = 
 $ y
